@@ -14,3 +14,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *1.pdf filter=lfs diff=lfs merge=lfs -text
+1.pdf filter=lfs diff=lfs merge=lfs -text
+24徐涛冲刺背诵笔记【问与答】.pdf filter=lfs diff=lfs merge=lfs -text
+PDF_311197936.pdf filter=lfs diff=lfs merge=lfs -text
+数据库系统教程.第2版_11987720.pdf filter=lfs diff=lfs merge=lfs -text
